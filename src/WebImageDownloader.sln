@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebImageDownloader", "ImageDownloader\WebImageDownloader.csproj", "{9BD14C75-E312-431B-AFD8-2A241C4E07CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumerTest", "ProducerConsumerTest\ProducerConsumerTest.csproj", "{5C345714-1A15-4BB3-A5C8-A3E41FDAC8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerMultipleConsumerTest", "ProducerMultipleConsumerTest\ProducerMultipleConsumerTest.csproj", "{AC6AA07D-2688-4D04-99ED-F1540D463119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{9BD14C75-E312-431B-AFD8-2A241C4E07CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD14C75-E312-431B-AFD8-2A241C4E07CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD14C75-E312-431B-AFD8-2A241C4E07CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C345714-1A15-4BB3-A5C8-A3E41FDAC8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C345714-1A15-4BB3-A5C8-A3E41FDAC8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C345714-1A15-4BB3-A5C8-A3E41FDAC8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C345714-1A15-4BB3-A5C8-A3E41FDAC8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6AA07D-2688-4D04-99ED-F1540D463119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6AA07D-2688-4D04-99ED-F1540D463119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6AA07D-2688-4D04-99ED-F1540D463119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6AA07D-2688-4D04-99ED-F1540D463119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
