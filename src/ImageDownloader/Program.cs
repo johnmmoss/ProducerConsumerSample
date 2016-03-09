@@ -10,7 +10,7 @@ namespace WebImageDownloader.Console
         {
             log4net.Config.XmlConfigurator.Configure();
 
-            var targetUrl = "http://www.dailymail.co.uk/home/index.html";
+            var targetUrl = "http://thechive.com/2016/02/29/i-declare-you-queen-of-the-selfie-50-photos-3";
 
             var dirName = CreateOutputDir(targetUrl);
 
