@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace WebImageDownloader.Console
+namespace WebImageDownloader.ConsoleApp
 {
     /// <summary>
     /// Threadsafe queue

@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using log4net;
 
-namespace WebImageDownloader.Console
+namespace WebImageDownloader.ConsoleApp
 {
     public class HtmlParser
     {

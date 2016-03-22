@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using log4net;
 
-namespace WebImageDownloader.Console
+namespace WebImageDownloader.ConsoleApp
 {
     /// <summary>
     /// Connects to a SimpleQueue as a consumer and downloads resources at all URIs.

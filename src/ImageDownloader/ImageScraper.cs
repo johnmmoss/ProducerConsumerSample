@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net;
 using log4net;
 
-namespace WebImageDownloader.Console
+namespace WebImageDownloader.ConsoleApp
 {
     // Downloads an html file from a specified url
     // and scrapes out all Img Src values
