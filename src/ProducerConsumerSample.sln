@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerMultipleConsumerTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollectionSample", "BlockingCollectionSample\BlockingCollectionSample.csproj", "{B0FF0AAB-7F09-4F55-8BAA-BDEFCF750B2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollectionArrayPipeline", "BlockingCollectionArrayPipeline2\BlockingCollectionArrayPipeline.csproj", "{9D504016-C137-49BE-A28E-7A0D446B1078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{B0FF0AAB-7F09-4F55-8BAA-BDEFCF750B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0FF0AAB-7F09-4F55-8BAA-BDEFCF750B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0FF0AAB-7F09-4F55-8BAA-BDEFCF750B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D504016-C137-49BE-A28E-7A0D446B1078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D504016-C137-49BE-A28E-7A0D446B1078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D504016-C137-49BE-A28E-7A0D446B1078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D504016-C137-49BE-A28E-7A0D446B1078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
